@@ -1,4 +1,5 @@
 # Pixie Treasure Hunt
+<img width="1022" height="558" alt="Pixie Hunt Banner" src="https://github.com/user-attachments/assets/c9dd61a9-2a31-4f4a-b6bb-5cc197bed335" />
 
 **Description:**  
 A 2D treasure-hunting adventure game in Java with cute, pastel visuals and lofi vibes. Explore whimsical islands, solve puzzles, and collect magical treasures.
